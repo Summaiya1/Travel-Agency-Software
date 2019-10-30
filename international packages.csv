@@ -1,0 +1,12 @@
+pkgid,packageName,packagePrice,Source,Destination,Hotel,Days,Persons,visits,Flight
+1,Majestic Dubai,281.327,karachi,Dubai,Mariana Hotel,5 days,2,"Dubai Creek , Burj Al Arab , Al Fahidi Fort and Desert Safari",Etihad Airways
+2,Fun in Thailand,280.367,karachi,Thailand,Zee Thai Hotel,6 days,3,"The Grand Palace , Phi Phi Islands , Temple Of The Emperald Bhudda, Khaosan Road",Emirates Flight
+3,Super Singapore Trip,320.67,karachi,Singapore,Hotel classic by Venue,5 days,2,"Gardens by the Bay, Sentosa  , Orchard Road, Hawker Centres , Merlion",Emirates Flight
+4,Enchanting  Mauritius,410.320,islamabad,Mauritius,Manisa Hotel,6 days,3,"Flic-en-Flac , Le Morne Brabant , Seven Colored Earth , Lie aux Cerfs",Emirates Flight
+5,Egypt Holidays,673.050,islamabad,Egypt,Sharm Reef Resort,5 days,3,"Giza Necropolis , Great Sphinx of Giza , Egyptian Museum , Karnak , Aswan Dam",Qatar Artways
+6,Exotic Malaysia tour,237.104,islamabad,Malaysia,Homie KL,5 days,1," Petronas twin Towers , Batu Caves , Mount Kinabalu , Perhentian Islands  , LEGOLAND Malaysia , Dataran Merdeka",Etihad Airways
+7,Magical Switzerland,540.140,islamabad,Switzerland,Happy Inn Lodge,6 days,1,"Jungfrau , Jungfraujoch , Pilatus ,  Chapel Bridge , Chillon Castle , Rhine Falls",Etihad Airways
+8,Istanbul Tour,378.00,karachi,Istanbul,Lotus Hotel,4 days,2,"Hagia Sophia Museum , The Blue Mosque ,  Basilica Cistern  , Turkish Delight",PIA Flights
+9,Dazzle in Bangkok,290.667,karachi,Bangkok,Nasa Vegas Hotel,4 days,2,"Central World , Chatuchak Weekend market , Temple of Dawn , Golden Buddha , Floating Market",Qatar Airways
+10,Paris with Disneyland,310,karachi,Paris,Hotel Darcet,4 days,1,"Eiffel Tower , Louvre Museum , Sacre-Coeur , Arc de Triomphe , Disneyland Paris ,",Emirates Flights
+11,Grand Tour Of Srilanka,460,karachi,Srilanka,Viyana Boutique Hotel,7 days,3,"Sigiriya , Yala National Park  , Sri Pada , Horton Plains National Park , Arugan Bay , Pinnawala Elephant Orphanage",PIA flights
